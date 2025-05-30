@@ -1,0 +1,27 @@
+const vitamine_b5 = {
+  nom: "Vitamine B5 (Acide pantothénique)",
+
+  origine: `La vitamine B5, ou acide pantothénique, tire son nom du grec "pantothen" qui signifie "partout", en raison de sa présence ubiquitaire dans les aliments. Elle fut identifiée dans les années 1930 par Roger J. Williams. Cette vitamine hydrosoluble fait partie du complexe des vitamines B et joue un rôle crucial dans le métabolisme énergétique. Elle est naturellement présente dans une grande variété d'aliments comme les viandes, les œufs, les céréales complètes, les légumineuses, les champignons et les produits laitiers.`, 
+
+  formes_disponibles: `Elle est disponible sous forme de compléments alimentaires en capsules, gélules, comprimés, poudres ou solutions buvables. Les formes les plus utilisées sont le D-pantothénate de calcium et le pantothénol (provitamine B5), cette dernière étant aussi utilisée en cosmétique pour ses effets cicatrisants et hydratants.`,
+
+  formes_recommandees_biodispo: `Le D-pantothénate de calcium est la forme la plus stable et la plus biodisponible en supplémentation. Le pantothénol est bien absorbé par voie orale et cutanée, et converti efficacement en acide pantothénique dans l’organisme. La biodisponibilité orale de la vitamine B5 est élevée (50 à 70 %), mais diminue avec des doses supérieures à 10 mg. La prise avec des aliments riches en protéines ou en graisses peut favoriser son assimilation.`,
+
+  pharmacocinetique: `La vitamine B5 est absorbée dans l’intestin grêle via un transport actif saturable à faible dose, puis par diffusion passive à haute dose. Elle est distribuée dans tous les tissus, en particulier dans le foie, les reins, le cœur et le cerveau. Elle est principalement excrétée par voie urinaire. Sa demi-vie biologique est d’environ 1 à 2 heures, ce qui implique un apport quotidien régulier.`,
+
+  mecanisme_action: `L’acide pantothénique est un précurseur essentiel du coenzyme A (CoA), un acteur clé dans le métabolisme des glucides, lipides et acides aminés. Le CoA est indispensable à la bêta-oxydation des acides gras, au cycle de Krebs, et à la synthèse de l’acétylcholine. La vitamine B5 intervient également dans la fabrication des hormones stéroïdiennes, de la vitamine D et de certains neurotransmetteurs. En plus de son rôle métabolique, elle est impliquée dans la régénération cellulaire et la cicatrisation.`,
+
+  synergies: `Elle agit en synergie avec les autres vitamines du groupe B, notamment B2, B6 et B12 pour optimiser les réactions métaboliques. Elle est également complémentaire au magnésium pour le soutien énergétique cellulaire. En cosmétique, l’association avec la vitamine E et le zinc renforce ses effets cicatrisants et anti-inflammatoires.`,
+
+  bienfaits: `La vitamine B5 soutient la production d’énergie, en favorisant la transformation des glucides, lipides et protéines en ATP. Elle améliore la résistance au stress, en participant à la synthèse du cortisol. Des études ont montré son efficacité dans la cicatrisation des plaies, en accélérant la régénération de la peau (source : Ebner et al., *International Journal of Cosmetic Science*, 2002). Elle est également reconnue pour améliorer l’apparence de la peau, en particulier dans le traitement de l’acné légère à modérée, grâce à ses propriétés anti-inflammatoires et séborégulatrices. En cosmétologie, le panthénol (provitamine B5) est utilisé pour apaiser les irritations cutanées, hydrater la peau en profondeur, renforcer la barrière cutanée et améliorer la brillance des cheveux. En interne, elle peut contribuer à réduire la fatigue chronique et favoriser la récupération musculaire chez les sportifs. Elle participe également à la synthèse de l’hémoglobine et au bon fonctionnement des systèmes nerveux et immunitaire. Une étude de 2014 a montré que l’administration de pantothéniques peut réduire les douleurs articulaires et accélérer la récupération post-traumatique chez certaines populations sportives (source : Wang et al., *Clinical Rehabilitation*, 2014).`,
+
+  inconvenients: `La vitamine B5 est généralement bien tolérée, même à forte dose. À très haute dose (plus de 10 g/j), elle peut toutefois entraîner des diarrhées ou des douleurs abdominales légères. Les réactions allergiques sont extrêmement rares. Elle ne présente pas de toxicité connue, et les excès sont éliminés dans les urines.`, 
+
+  conseils_utilisation: `Les apports journaliers recommandés sont d’environ 5 mg pour un adulte, mais peuvent monter à 10-20 mg chez les sportifs, les femmes enceintes ou les personnes stressées. En traitement de soutien cutané ou articulaire, des doses allant de 250 à 500 mg/j de pantothénate de calcium sont utilisées. La prise est recommandée pendant ou après un repas pour améliorer l’absorption.`, 
+
+  certifications: `Privilégier les compléments certifiés GMP ou ISO, contenant du D-pantothénate de calcium, sans excipients inutiles. En cosmétique, rechercher la mention Dexpanthénol à 5 % minimum pour une efficacité optimale sur la peau et les cheveux.`, 
+
+  conclusion: `La vitamine B5 est une molécule clé de l’énergie cellulaire, du métabolisme hormonal et de la réparation tissulaire. Ses effets multiples sur la peau, la résistance au stress, l’immunité et la vitalité en font un complément particulièrement polyvalent. Sa très bonne tolérance, même à fortes doses, en fait un allié de choix pour l’entretien quotidien de la santé métabolique et dermatologique.`
+};
+
+export default vitamine_b5;

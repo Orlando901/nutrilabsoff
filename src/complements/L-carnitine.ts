@@ -1,0 +1,28 @@
+const l_carnitine = {
+  nom: "L-Carnitine",
+  categorie: "Protéine",
+
+  origine: `La L-carnitine est un composé naturellement synthétisé par l’organisme à partir des acides aminés lysine et méthionine, principalement au niveau hépatique et rénal. Elle a été isolée pour la première fois au début du XXe siècle dans la viande, d’où son nom dérivé du latin “carnis”. Son rôle physiologique central dans le métabolisme énergétique a été confirmé dans les années 1950, avec la mise en évidence de sa fonction de transporteur des acides gras à longue chaîne dans la mitochondrie. Elle est présente en grande quantité dans les muscles, le cœur, et les spermatozoïdes, et son usage comme complément s’est développé pour soutenir la performance physique, la récupération, ou la fonction cardiovasculaire.`,
+
+  formes_disponibles: `La L-carnitine est commercialisée sous plusieurs formes : L-carnitine libre, acétyl-L-carnitine (ALCAR), L-carnitine L-tartrate, propionyl-L-carnitine. Elle est disponible en gélules, comprimés, poudres, ampoules buvables et boissons fonctionnelles. Chaque forme possède des indications spécifiques : l’acétyl-L-carnitine est plutôt utilisée pour les fonctions cognitives, tandis que la forme tartrate est privilégiée dans les produits pré-entraînement pour sa meilleure absorption musculaire.`,
+
+  formes_recommandees_biodispo: `L’absorption intestinale de la L-carnitine est modeste (environ 15 à 20 % en moyenne). La forme L-carnitine L-tartrate affiche une meilleure biodisponibilité musculaire, tandis que l’ALCAR traverse plus facilement la barrière hémato-encéphalique. La prise avec des glucides ou de la vitamine C peut améliorer son absorption. Les formes liquides sont rapidement absorbées mais nécessitent une conservation rigoureuse pour éviter l’oxydation.`,
+
+  pharmacocinetique: `La L-carnitine atteint une concentration plasmatique maximale (Tmax) entre 1 et 3 heures selon la forme et la co-ingestion alimentaire. Sa demi-vie varie de 3 à 6 heures, avec une clairance urinaire élevée. En cas de supplémentation chronique, une accumulation tissulaire modérée peut être observée, notamment au niveau du muscle squelettique. L’ALCAR atteint rapidement le système nerveux central, mais sa demi-vie est plus courte.`,
+
+  mecanisme_action: `La L-carnitine agit en facilitant le transport des acides gras à longue chaîne à travers la membrane mitochondriale interne via la carnitine palmitoyltransférase I (CPT I), permettant leur bêta-oxydation et la production d’ATP. Elle participe aussi à l’élimination des acyl-CoA toxiques. L’ALCAR exerce des effets neuroprotecteurs via la modulation des récepteurs NMDA, la réduction du stress oxydatif et la stimulation de la production d’acétylcholine. Elle contribue également à la réduction des dommages musculaires post-effort.`,
+
+  synergies: `Associée à la caféine, la L-carnitine améliore l’oxydation lipidique à l’effort. En combinaison avec la coenzyme Q10, elle optimise la fonction mitochondriale. L’acétyl-L-carnitine est souvent associée à l’ALA (acide alpha-lipoïque) pour ses effets synergétiques sur le stress oxydatif et la neuroprotection. Une association avec des sources de glucides ou d’insuline potentialise son entrée cellulaire.`,
+
+  bienfaits: `Chez les personnes âgées, la supplémentation en L-carnitine améliore la composition corporelle, la masse musculaire et réduit la fatigue (source : Malaguarnera et al., *American Journal of Clinical Nutrition*, 2007). Dans une étude randomisée, la L-carnitine tartrate a réduit les marqueurs de lésions musculaires (CK, myoglobine) après exercice intense (source : Kraemer et al., *Journal of Strength and Conditioning Research*, 2003). L’ALCAR a également montré des bénéfices cognitifs chez les sujets souffrant de troubles légers (source : Montgomery et al., *Dementia and Geriatric Cognitive Disorders*, 2003).`,
+
+  inconvenients: `Des troubles gastro-intestinaux bénins (nausées, diarrhée) peuvent survenir à doses élevées. Une odeur corporelle inhabituelle (poisson) a été rapportée en raison de la production de triméthylamine. Chez les personnes souffrant d’insuffisance rénale, la supplémentation est déconseillée sans suivi médical, car elle pourrait accroître la production de TMAO, un composé associé au risque cardiovasculaire (source : Koeth et al., *New England Journal of Medicine*, 2013).`,
+
+  conseils_utilisation: `Les doses efficaces varient entre 500 mg et 3 g par jour selon l’objectif : forme libre ou tartrate pour les sportifs, acétyl-L-carnitine pour la cognition. Elle peut être prise 30 à 60 minutes avant l’effort pour favoriser l’endurance, ou en phase de récupération. Chez les personnes âgées ou fatiguées, une prise répartie dans la journée est conseillée. Des cures de 4 à 8 semaines sont habituelles.`,
+
+  certifications: `Choisir des produits labellisés GMP ou ISO, mentionnant clairement la forme utilisée (ALCAR, tartrate, etc.), le dosage exact, et exempt de contaminants (métaux lourds, solvants). La provenance (synthèse contrôlée ou fermentation) peut aussi être un critère de qualité.`,
+
+  conclusion: `La L-carnitine est un complément multifonctionnel dont les effets varient selon sa forme galénique. Son usage peut améliorer la performance physique, la récupération, la fonction cognitive ou encore l’état de fatigue chronique. Bien qu’elle présente peu d’effets indésirables, son emploi doit rester ciblé, rationnel et bien encadré pour en maximiser les bénéfices physiologiques.`
+};
+
+export default l_carnitine;
